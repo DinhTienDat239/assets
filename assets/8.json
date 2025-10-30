@@ -1,0 +1,19 @@
+{
+  "name": "Galaxy_Pass #08",
+  "description": "Astrolotl NFT Collection",
+  "image": "8.png",
+  "attributes": [
+    {
+      "trait_type": "Pass",
+      "value": "08"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
