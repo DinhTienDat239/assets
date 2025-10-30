@@ -1,7 +1,8 @@
 {
   "name": "Galaxy Pass",
-  "symbol": "GALAXY",
+  "description": "This is Astrolotl Nft Collection",
   "image": "collection.png",
+  "external_url": "https://example.com",
   "properties": {
     "files": [
       {
@@ -9,15 +10,6 @@
         "type": "image/png"
       }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "CYzvb32X6d8ujJ6WnzFfcx2WSewZydPWvMBhG5Ciq5L1",
-        "share": 100
-      }
-    ]
-  },
-  "description": "NFT Pass Collection of Astrolotl Game",
-  "seller_fee_basis_points": 0,
-    "attributes": []
+    "category": "image"
+  }
 }
